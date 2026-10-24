@@ -18,7 +18,9 @@ three scores out of 100, every failing check, and the fix for each one:
 
 | Site | SEO | AEO | GEO | Overall |
 | --- | --- | --- | --- | --- |
-| _to be filled after live verification_ | | | | |
+| [frinjo.me](https://botview-web.vercel.app/check?url=https%3A%2F%2Ffrinjo.me) | 100 | 85 | 94 | 93 |
+| [igaf.me](https://botview-web.vercel.app/check?url=https%3A%2F%2Figaf.me) | 98 | 20 | 94 | 71 |
+| [example.com](https://botview-web.vercel.app/check?url=https%3A%2F%2Fexample.com) | 35 | 10 | 33 | 26 |
 
 ## Run it locally
 

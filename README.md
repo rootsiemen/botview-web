@@ -1,6 +1,6 @@
 # 🔍 BotView — Free SEO, AEO & GEO Checker
 
-**Live:** https://botview-web.vercel.app
+**Live:** https://botview-web.vercel.app — also live on Frinjo: [BotView — AI Visibility Checker](https://frinjo.me/botview)
 
 See your website the way search engines — and AI — see it. Paste any URL and get
 three scores out of 100, every failing check, and the fix for each one:
